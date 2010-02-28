@@ -1,6 +1,9 @@
 20100301
+  Android 開発 A to Z
+
   http://java.sun.com/javase/ja/6/download.html
   http://www.eclipse.org/downloads/
+    GALILEO
   http://developer.android.com/sdk/
     C:\Users\indou\android-sdk-windows
       Refresh Sources
@@ -9,4 +12,12 @@
         プログラム互換性アシスタント
           このプログラムは正しくインストールされなかった可能性があります。
           キャンセル
+        REFERENCE:http://groups.google.com/group/android-group-japan/browse_thread/thread/e934fe5ef61a264f
+        SDK setup.exeを実行し、SettingタブのMisc Force https://...sources to be fetched using http://...をチェック。再度Installed Packagesの、Update Allをクリック。
+
+    Eclipse
+      ADTプラグインインストール
+
+
+
 
