@@ -18,6 +18,16 @@
     Eclipse
       ADTプラグインインストール
 
+      File-New-Other-Android-Android Project-Next
+        Project name:SampleProject
+        Contents    :変更なし(デフォルト)
+        Build Target:Android 1.6
+        Application name:SampleApplication
+        Package name    :jp.co.c_lis.softwaredesign1
+        Create Activity :MainActivity
+        Min SDK Version :4
+
+    Android実行すると、キーボード履歴ユーティリティは動作を停止しましたというダイアログボックスが出る。何度も。
 
 
 
