@@ -1,3 +1,6 @@
 20100304
   SampleApplication
     画面にボタンを追加
+
+    R.javaを変更すると、
+    [2010-03-04 01:04:33 - SampleProject]R.java was modified manually! Reverting to generated version!
