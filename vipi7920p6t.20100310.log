@@ -1,0 +1,36 @@
+20100310
+  1. ボタンの追加
+    src
+      jp.co.c_lis.softwaredesign1
+        MainActivity.java
+    res
+      layout
+        main.xml
+          ●追加<Button  />
+  2. リスナー
+    src
+      jp.co.c_lis.softwaredesign1
+        MainActivity.java
+          ●import
+          ●implements
+          ●onClickメソッド
+            空
+
+  3. リソースのButton要素にidを設定要素追加
+    res
+      layout
+        main.xml
+          ●追加id
+  4. 保存
+  5. Rクラスが自動的に再構築される
+  6. ボタンにリスナーを登録
+    src
+      jp.co.c_lis.softwaredesign1
+        MainActivity.java
+          ●setOnClickListener
+  7. onClickメソッド
+    src
+      jp.co.c_lis.softwaredesign1
+        MainActivity.java
+          ●onClickメソッド
+    
